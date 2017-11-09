@@ -1,0 +1,91 @@
+body {
+    font-size: 125%;
+}
+
+h1 {
+    color: red;
+    letter-spacing: 25px;
+    line-height: 2em;
+    font-family: 'Bookman';
+    font-variant: small-caps;
+}
+
+h2 {
+    color: orange;
+    letter-spacing: 20px;
+    line-height: 1.75em;
+    font-variant: small-caps;
+    font-family: 'Bookman';
+}
+
+h3 {
+    color: #e6e600;
+    letter-spacing: 15px;
+    line-height: 1.5em;
+    font-variant: small-caps;
+    font-family: 'Bookman';
+}
+
+h4 {
+    color: green;
+    letter-spacing: 5px;
+    font-variant: small-caps;
+    font-family: 'Bookman';
+}
+
+h5 {
+    color: blue;
+    line-height: 0.5em;
+    font-variant: small-caps;
+    font-family: 'Bookman';
+}
+
+h6 {
+    color: violet;
+    letter-spacing: -2px;
+    line-height: 0.1em;
+    font-variant: small-caps;
+    font-family: 'Bookman';
+}
+
+pre {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    background-color: #333333;
+    color: #fff;
+    font-family: 'Courier';
+    font-variant: small-caps;
+}
+
+#p1 {
+    word-spacing: 8px;
+    font-size: 12px;
+}
+
+#p2 {
+    text-align: right;
+    font-family: 'Brush Script MT';
+    font-size: 24px;
+    line-height: 2em;
+    font-size: 20px;
+}
+
+address {
+    font-weight: 100;
+    font-family: 'Garamond';
+    color: blue;
+    font-weight: 600;
+    text-align: center;
+}
+
+#presentation {
+    word-spacing: 20px;
+    text-align: justify;
+}
+
+#semantics {
+    font-family: 'Verdana';
+    text-align: center;
+
+}
